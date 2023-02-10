@@ -1,16 +1,29 @@
-### Hi there 👋
+<b><h3>Oi! Bem vindo(a)! Eu sou a Bela Lage ^_~</h4></b>
+- 💻 Atualmente estou trabalhando em um projeto de criação de site de banda. 
+- 📚 Estou aprendendo mais sobre HTML, CSS e JavaScript.
+- 📑 Estudo Dev Web Full Stack na Tera.
+- 🧜‍♀️ Pronomes: ela/dela.
+<br>
+  <div style="display: inline_block><br>
+   <img align="center" alt="Bela-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Bela-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+  
+  ##
 
-<!--
-**bela-lage/bela-lage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b><h4>Me ache em:</h4></b>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.linkedin.com/in/bela-lage" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%2300C5CD?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/bela.lr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23EB74A9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>
+  
+  ##
+  
+ - <b><h4> Meus Stats:</h4></b>
+  
+  <div>
+  <img align="left" alt="Bela Lage" src="https://github-readme-stats-bela-lage.vercel.app/api?username=bela-lage&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=00C5CD&hide_title=true&ring_color=EB74A9&border_radius=6&hide=contribs">
+  <img align="left" alt="Linguagens" src="https://github-readme-stats-bela-lage.vercel.app/api/top-langs/?username=bela-lage&layout=compact&theme=dracula&hide_border=true&border_radius=6&title_color=EB74A9">
+  </div>
+  
