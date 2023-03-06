@@ -1,5 +1,5 @@
 <b><h3>Oi! Bem vindo(a)! Eu sou a Bela Lage! ^_~</h4></b>
-- 💻 Atualmente estou trabalhando em um projeto de criação de site de banda. 
+- 💻 Atualmente estou trabalhando em um projeto de criação de site/portfólio pessoal. 
 - 📚 Estou aprendendo mais sobre HTML, CSS e JavaScript.
 - 📑 Estudo Dev Web Full Stack na Tera.
 - 🧜‍♀️ Pronomes: ela/dela.
