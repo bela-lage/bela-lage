@@ -1,6 +1,6 @@
 <b><h3>Oi! Bem vindo(a)! Eu sou a Bela Lage! ^_~</h4></b>
-- 💻 Atualmente estou trabalhando em um projeto de criação de site/portfólio pessoal. 
-- 📚 Estou aprendendo mais sobre HTML, CSS e JavaScript.
+- 💻 Atualmente estou trabalhando em um projeto de criação de uma plataforma educacional. 
+- 📚 Passei pelo módulo de FrontEnd e agora aprendendo mais sobre BackEnd. Estou desenvolvendo minha primeira API!
 - 📑 Estudo Dev Web Full Stack na Tera.
 - 🧜‍♀️ Pronomes: ela/dela.
 <br>
