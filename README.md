@@ -1,7 +1,7 @@
 <b><h3>Oi! Bem vindo(a)! Eu sou a Bela Lage! ^_~</h4></b>
-- 💻 Atualmente estou trabalhando em um projeto de criação de uma plataforma educacional. 
-- 📚 Passei pelo módulo de FrontEnd e agora aprendendo mais sobre BackEnd. Estou desenvolvendo minha primeira API!
-- 📑 Estudo Dev Web Full Stack na Tera.
+- 💻 Atualmente estou trabalhando em um projeto de criação do meu portfólio. 
+- 📚 Desenvolvi minha primeira API aplicada a um projeto de plataforma educacional no bootcamp de Dev Web Full Stack da Tera!
+- 📑 Concluí meus estudos em Dev Web Full Stack na Tera e agora estou buscando outras especializações. Pretendo voltar meu foco para a área de Desenvolvimento de Jogos.
 - 🧜‍♀️ Pronomes: ela/dela.
 <br>
   <div style="display: inline_block><br>
