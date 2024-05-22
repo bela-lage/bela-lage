@@ -29,9 +29,9 @@
 
   <div>
   <img align="left" alt="Bela Lage" src="https://github-readme-stats.vercel.app/api?username=bela-lage&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=00C5CD&hide_title=true&ring_color=EB74A9&border_radius=6&hide=contribs">
-  
+  <br>
   <img align="left" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bela-lage&layout=compact&theme=dracula&hide_border=true&border_radius=6&title_color=EB74A9">
-  
+  <br>
   <a href="https://git.io/streak-stats"><img align="left" alt="Streaks" src="https://streak-stats.demolab.com?user=bela-lage&theme=dracula&card_width=350"/></a>
   </div>
   
