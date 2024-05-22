@@ -1,6 +1,6 @@
 <b><h2>Oi! Bem vindo(a)! Eu sou a Bela Lage! ^_~</h2></b>
 <br>
-- 💻 Conclui meus estudos no bootcamp Dev Web Full Stack na Tera. Atualmentem estou cursando o bootcamp Fundamentos de IA para Devs, na DIO em parceria com o Santander. 
+- 💻 Conclui meus estudos no bootcamp Dev Web Full Stack na Tera. Atualmente estou cursando o bootcamp Fundamentos de IA para Devs, na DIO em parceria com o Santander. 
 - 📚 Desenvolvi minha primeira API aplicada a um projeto de plataforma educacional no bootcamp de Dev Web Full Stack da Tera!
 - 📑 Estou buscando outras especializações. Pretendo voltar meu foco para a área de Desenvolvimento de Jogos.
 - 🧜‍♀️ Pronomes: ela/dela.
